@@ -1,0 +1,106 @@
+*{
+    margin: 0px;
+    padding: 0;
+    box-sizing: border-box;
+    text-decoration: none;
+    list-style: none;
+    
+}
+.cuerpo{
+    cursor: default;
+    font-family: Georgia;
+    margin-bottom: 50px;
+}
+.card {
+     background-color: rgb(190, 221, 221);
+    
+    font-size: 20px;
+    font-family: Georgia;
+    margin-left: 20px;
+    margin-right: 20px;
+}
+.semestres{
+    background-color: rgb(248, 248, 237);
+    
+    font-size: 20px;
+    font-family: Georgia;
+    cursor: default;
+    margin-left: 20px;
+    margin-right: 20px;
+}
+.semestre2{
+    background-color: rgb(223, 219, 189);
+    
+    font-size: 20px;
+    font-family: Georgia;
+    margin-left: 20px;
+    margin-right: 20px;
+}
+.semestre3{
+    background-color: rgb(214, 219, 241);
+   
+    font-size: 20px;
+    font-family: Georgia;
+    margin-left: 20px;
+    margin-right: 20px;
+}
+.semestre4{
+    background-color: rgb(237, 227, 243);
+    
+    font-size: 20px;
+    font-family: Georgia;
+    margin-left: 20px;
+    margin-right: 20px;
+}
+.semestre5{
+    background-color: rgb(187, 234, 240);
+    
+    font-size: 20px;
+    font-family: Georgia;
+    margin-left: 20px;
+    margin-right: 20px;
+}
+.semestre6{
+    background-color: rgb(206, 230, 233);
+    
+    font-size: 20px;
+    font-family: Georgia;
+    margin-left: 20px;
+    margin-right: 20px;
+}
+.semestre7{
+    background-color: rgb(194, 204, 206);
+    
+    font-size: 20px;
+    font-family: Georgia;
+    margin-left: 20px;
+    margin-right: 20px;
+}
+.semestre8{
+    background-color: rgb(192, 218, 223);
+    
+    font-size: 20px;
+    font-family: Georgia;
+    margin-left: 20px;
+    margin-right: 20px;
+}
+.semestre9{
+    background-color: rgb(192, 218, 223);
+    
+    font-size: 20px;
+    font-family: Georgia;
+    margin-left: 20px;
+    margin-right: 20px;
+
+}
+.semestre10{
+    background-color: rgb(174, 184, 185);
+   
+    font-size: 20px;
+    font-family: Georgia;
+    margin-left: 20px;
+    margin-right: 20px;
+}
+.title{
+    margin-left: 25px;
+}
